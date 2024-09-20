@@ -13,11 +13,10 @@ comp1238
 ## Links
 * [brightspace](https://learn.georgebrown.ca/d2l/home)
 * [youtube](https://youtu.be/4D0o8exrcAk?si=3IqDFdkVdBR7DdEg)
-* []()
-### Emojis
-*🚗
-* 🚑
-* 🚌
-* 🚡
-* 🚅
-* ✈️
+## Emojis
+* 🚙 Car
+* 🐱 Car
+* 🚌 Bus
+* 🐁 Mouse
+* ✈️ airplane
+* 🇨🇦 Canada
