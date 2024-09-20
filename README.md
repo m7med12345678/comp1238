@@ -11,7 +11,13 @@ comp1238
 * ( nine
 * ) ten
 ## Links
+* [brightspace](https://learn.georgebrown.ca/d2l/home)
+* [youtube](https://youtu.be/4D0o8exrcAk?si=3IqDFdkVdBR7DdEg)
 * []()
-* []()
-* []()
-### Experiments
+### Emojis
+*🚗
+* 🚑
+* 🚌
+* 🚡
+* 🚅
+* ✈️
