@@ -20,3 +20,5 @@ comp1238
 * 🐁 Mouse
 * ✈️ airplane
 * 🇨🇦 Canada
+
+[CLI commands](Docs/Cli.md)
